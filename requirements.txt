@@ -1,5 +1,5 @@
 # Web API
-Flask==1.1.4
+Flask==2.2.2
 connexion[swagger-ui]==2.9.0
 
 # Database Connection
